@@ -1,1 +1,2 @@
-# MCS-51
+# MCS-51  
+just a newbie  

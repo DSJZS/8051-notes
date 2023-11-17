@@ -1,2 +1,2 @@
-# MCS-51  
+# 8051  
 just a newbie  
